@@ -35,6 +35,10 @@ For this project, we have built an supervised learning model using XGBoost and S
 
 [Kaggle](https://www.kaggle.com/terms)
 
+## Data 
+
+The data is taken from [here](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
+
 
 ## Appendix
 
